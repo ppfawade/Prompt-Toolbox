@@ -1,5 +1,5 @@
 {
-  "name": "DatumSpec — Engineering Prompt Playbook & Modular Builder",
+  "name": "Prompt-Toolbox — Engineering Prompt Playbook & Modular Builder",
   "description": "Interactive single-page prompt engineering playbook and deterministic modular framework builder (CO-STAR, RISEN, Few-Shot, First-Principles) for mechanical, product, manufacturing, and process engineering.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
